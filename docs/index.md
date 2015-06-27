@@ -1,52 +1,24 @@
-## 什么是OpenWrt？
+## 大明宫（唐朝皇宫） 锁定 ﻿[dà míng gōng] 
+大明宫，大唐帝国的宫殿，是当时的政治中心和国家象征，位于唐京师长安（今西安）北侧的龙首原。始建于公元634年，原名永安宫，是唐长安城的三座主要宫殿（大明宫、太极宫、兴庆宫）中规模最大的一百一十座，称为“东内”。
+自唐高宗起，先后有17位唐朝皇帝在此处理朝政，历时达二百余年。大明宫是当时全世界最辉煌壮丽的宫殿群，其建筑形制影响了当时东亚地区的多个国家宫殿的建设。大明宫占地350公顷，是明清北京紫禁城的4.5倍，被誉为千宫之宫、丝绸之路的东方圣殿。公元896年，大明宫毁于唐末的战乱。
+1961年，大明宫遗址被中华人民共和国国务院公布为第一批全国重点文物保护单位之一。2010年，西安市在原址建立大明宫国家遗址公园对遗址进行保护与展示。
+2014年6月22日，在卡塔尔多哈召开的联合国教科文组织第38届世界遗产委员会会议上，唐长安城大明宫遗址作为中国、哈萨克斯坦和吉尔吉斯斯坦三国联合申遗的“丝绸之路：长安-天山廊道路网”中的一处遗址点成功列入《世界遗产名录》。
 
-OpenWrt是一款基于Linux的操作系统，主要用于路由器。…… \> [新手指南](/docs/beginners-guide/)
+### 历史沿革
 
-\> [支持的硬件](/docs/supported-devices/)
+大明宫初建于唐太宗贞观八年（634年），名永安宫，是唐太宗李世民为太上皇李渊而修建的夏宫，也就是避暑用的宫殿，贞观九年（635年）五月，李渊病死于大安宫，夏宫的营建工程也就此停工。李渊去世后，改称为大明宫，又称“东内”。
 
-## Openwrt News 开源项目动态
+大明宫再次大规模营建是在高宗龙朔时期。“龙朔二年（662年），高宗染风痹，恶太极宫卑下，故就修大明宫”。当时为修此宫曾征收关内道延、雍、同、岐、幽、华、宁、鄜、坊、泾、虢、绛、晋、蒲、庆等十五州121钱，且在龙朔三年二月减京官一月俸，以助修建。经过这次大规模营建，大明宫才算基本建成，更名为蓬莱宫，并入住其中。咸亨元年（670年）宫殿再次改名为含元宫，神龙元年（705年）复名大明宫。
+此后大明宫尚有多次营建和葺修，如玄宗开元元年（公元713年）曾修大明宫，宪宗元和十二年（817年）、十三年又曾二次增修大明宫宫殿，“新造蓬莱池周廊四百间”，浚龙首池，起承晖殿。不过这些工程只是增修补葺罢了。
 
-### 2015年5月，OpenWrt Chaos Calmer 15.05-rc1 候选版发布
+自唐高宗开始，大明宫成为国家的统治中心，历时达234年。整座宫殿的规模宏大，建筑雄伟，王维诗句“九天阊阖开宫殿，万国衣冠拜冕旒”描绘了当时的盛景。中唐和晚唐时朱泚和黄巢先后据此称帝。唐僖宗时，大明宫屡遭兵火，最终于乾宁三年（896年）被烧毁。数年后，因为战备的原因，宫殿的遗迹也都被拆除，此后便成为一片废墟。
 
- * Linux kernel updated to version 3.18
- * New mt7621 subtarget for Mediatek 11ac SoC
- * New mt76 mac80211 based wifi driver for MTK 11ac cores.
+### 宫城概述
 
-### 2014年10月，OpenWrt Barrier Breaker 14.07 正式版发布
-
- * Linux kernel updated to version 3.10
- * Native IPv6-support
- * UCI configuration improvements
- * The new feed https://github.com/openwrt/packages should be used from now on and package maintainers are asked to move their packages there.
-
-### 2013年4月，OpenWrt Attitude Adjustment (12.09 final) 正式版发布
-
- * Switched to Kernel 3.3
- * Switched to uClibc 0.9.33.2
- * Switched to shadow passwords
-
-## Openwrt Vendors News 智能路由器厂商新闻
-
-### 2015年6月，小米发布全新小米路由
-
-配置：BCM4709C Cortex-A9双核1.4GHz、512M SLC ROM、256MB RAM，[京东￥699](http://union.click.jd.com/jdc?e=&p=AyIBZRprFDJWWA1FBCVbV0IUEEULWldTCQQAQB1AWQkFWxIEEwZdE0RMR05aZWYCfGkRZj5lORJKaXRQfyUXRVZyJmtXGTIQBlYaXxQLEQ5lG1sUAhY3ZXopJTI%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsSBBMGXRNETEdOWg%3D%3D)。官网 [http://www.mi.com/miwifi/specs/](http://www.mi.com/miwifi/specs/)
-
-### 2015年3月，极路由发布极3
-
-配置：MTK MT7620A、16M ROM、128M RAM，[京东￥296](http://union.click.jd.com/jdc?e=&p=AyIBZRprFDJWWA1FBCVbV0IUEEULWldTCQQAQB1AWQkFWxcLFQFUHERMR05aZX0HRUBFeCFNORVgdn1VWylJYGcDKV1XGTIQBlYaXxQLEQ5lG1sUAhY3ZXopJTI%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsXCxUBVBxETEdOWg%3D%3D)。官网 [http://www.hiwifi.com/j3-para](http://www.hiwifi.com/j3-para)
-
-### 2014年12月，优酷发布路由宝
-
-可以赚钱的路由器：利用闲置带宽帮助优酷CDN加速，赚得优金币，可提现。配置：MTK MT7620A、32M ROM、128M RAM，[京东￥138](http://union.click.jd.com/jdc?e=&p=AyIBZRprFDJWWA1FBCVbV0IUEEULWldTCQQAQB1AWQkFWxcHFgNVGkRMR05aZVAEYkNKTxZ%2BO0lgbAA9aylzWXR8JmtXGTIQBlYaXxQLEQ5lG1sUAhY3ZXopJTI%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsXBxYDVRpETEdOWg%3D%3D)。官网 [http://yj.youku.com/ott/lyb](http://yj.youku.com/ott/lyb)
-
-### 2014年6月，魔豆发布魔豆路由器 M101
-
-配置：MTK MT7620A、128M ROM、128M RAM，[京东￥159](http://union.click.jd.com/jdc?e=&p=AyIBZRprFDJWWA1FBCVbV0IUEEULWldTCQQAQB1AWQkFWxAAEwVTEkRMR05aZXIzFGlscBYbPnRCa0IMXwdOfUV%2FE3tXGTIQBlYaXxQLEQ5lG1sUAhY3ZXopJTI%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsQABMFUxJETEdOWg%3D%3D)。官网 [http://www.modouwifi.com/router.html](http://www.modouwifi.com/router.html)
-
-### 2014年4月，小米发布小米路由器 mini
-
-配置：MTK MT7620A、16M ROM、128M RAM，[京东第三方￥119](http://union.click.jd.com/jdc?e=&p=AyIBZRlaFgoUA1EaWSUDIkMKQwVKMktCEFpQCxxKQgFHRE5XDVULR0UVABAFUxxTFgMRGAxeB0gyGnMzWl1TYGpiNnkQXkRJcl1yKRdAcgtZK1kUARMDVBJYHDISB1QbXyUyc3VlKw%3D%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsXABABUhNYFAENXhBHBg%3D%3D)或[京东自营￥149](http://union.click.jd.com/jdc?e=&p=AyIBZRprFDJWWA1FBCVbV0IUEEULWldTCQQAQB1AWQkFWxYEGgdTG0RMR05aZU4fbHtiTj1gOXF4VHU3TjlhC3BRA2tXGTIQBlYaXxQLEQ5lG1sUAhY3ZXopJTI%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsWBBoHUxtETEdOWg%3D%3D)，官网 [http://www.mi.com/miwifimini/](http://www.mi.com/miwifimini/)
-
-### 2013年3月，极路由发布极1国际版
-
-极1国际版内置免费番茄插件。配置：Atheros AR9331、16M ROM、64M RAM。使用OpenWrt系统，开创了智能路由器行业，并遵守开源协议，开放了代码。
+大明宫位于隋朝皇宫大兴宫（唐称太极宫）之东北，始建于唐贞观八年（公元634年），原名永安宫，唐太宗建造初衷是为给太上皇李渊居住，以尽孝道。但大明宫未建成，李渊就离开了人世，大明宫的修建于是停止。龙朔二年（公元662年），唐高宗扩建，次年迁入大明宫执政。大明宫成为了大唐帝国新的政治中心。
+大明宫是唐长安城规模最大的一处宫殿区，选址在唐长安城宫城东北侧的龙首原上，利用天然地势修筑宫殿，形成一座相对独立的城堡。宫城的南部呈长方形，北部呈南宽北窄的梯形。周长7628米，面积约3.2平方公里，为北京紫禁城的四倍，相当于三个凡尔赛宫，十二个克里姆林宫，十三个卢浮宫，十五个白金汉宫，五百个足球场。平面形制是一南宽北窄的楔形，西墙长2256米，北墙长1135米，南墙为郭城北墙东部的一段，长1674米，东墙的北部偏西12度多，由东墙东北角起向南（偏东）1260米，转向正东，再304米，又折向正南长1050米，与宫城南墙相接。宫墙墙面与太极宫一样为夯土板筑，只有各城门两侧及转角处内外表面砌有砖面。城基的宽度，据考古实测，除南面墙基用郭城北墙宽约9 米左右外，其他三面墙基均宽13．5米，深1．1米。城墙筑在城基中间，两边比城基各窄进1．5米左右，底部宽10．5米，构筑十分坚固。
+大明宫布局
+大明宫布局
+此外，在宫城北部之外，东、西、北三面都构筑有平行于宫城墙的夹城，亦为板筑土墙。北面夹城最宽，距宫城墙宽160米。东西两面夹城距宫城墙宽均为55米。夹城的修筑，在宫城的后部，配合宫城城墙共同构成严密的防卫体系结构。
+宫城共有九座城门，南面正中为大明宫的正门丹凤门，东西分别为望仙门和建福门；北面正中为玄武门，东西分别为银汉门和青霄门；东面为左银台门；西面南北分别为右银台门和九仙门。除正门丹凤门有五个门道外，其余各门均为三个门道。在宫城的东西北三面筑有与城墙平行的夹城，在北面正中设重玄门，正对着玄武门。宫城外的东西两侧分别驻有禁军，北门夹城内设立了禁军的指挥机关——“北衙”。整个宫域可分为前朝和内庭两部分，前朝以朝会为主，内庭以居住和宴游为主。丹凤门以南，有宽176米的丹凤门大街，以北是含元殿、宣政殿、紫宸殿、蓬莱殿、含凉殿、玄武殿等组成的南北中轴线，宫内的其他建筑，也大都沿着这条轴线分布。含元殿、宣政殿、紫宸殿三大殿，正殿为含元殿。含元殿以北有宣政殿，宣政殿左右有中书、门下二省，及弘文、史二馆。在轴线的东西两侧，还各有一条纵街，是在三道横向宫墙上开边门贯通形成的。有名的麟德殿大约建于唐高宗麟德年间，位于大明宫北部太液池之西的高地上。此外有别殿、亭、观等30余所。
+唐僖宗时，大明宫屡遭兵火，最终于乾宁三年（896年）被烧毁。数年因为战备的原因，宫殿的遗迹也都被除，此后便成为一片废墟。
