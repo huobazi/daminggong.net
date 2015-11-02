@@ -8,3 +8,5 @@ RUN rm -f /etc/nginx/conf.d/*
 ADD nginx/conf.d /etc/nginx/conf.d/
 
 
+
+
