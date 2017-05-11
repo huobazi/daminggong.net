@@ -1,6 +1,6 @@
 site_name: 大明宫
 site_url: http://daminggong.net/
-site_description: 大明宫，大明宫国家遗址公园，大明宫旅游攻略
+site_description: 大明宫,大明宫国家遗址公园,大明宫旅游攻略,西安大明宫
 google_analytics: ['UA-56321-5', 'daminggong.net']
 pages:
 - 首页: index.md
