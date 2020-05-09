@@ -50,7 +50,7 @@ read_your_settings(){
 install_or_upgrade_website() {
     rm -rf /www/daminggong.net
     mkdir -p /www/daminggong.net
-    cd /home/wwwroot || exit
+    cd /home || exit
     git clone https://github.com/huobazi/daminggong.net
     judge "website clone "
 }
