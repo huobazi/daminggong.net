@@ -92,7 +92,7 @@ menu() {
     echo -e " Daminggong.net 网站安装管理脚本 ${Red}[${shell_version}]${Font}"
     echo -e " --- Authored by Marble --- "
     echo -e " https://github.com/huobazi\n"
-    echo -e " —————————————— 安装向导 ——————————————"""
+    echo -e " —————————————— 安装向导 ——————————————"
     echo -e " ${Green}0.${Font}  升级安装脚本"
     echo -e " ${Green}1.${Font}  安装"
     echo -e " ${Green}99.${Font} 退出 \n"
