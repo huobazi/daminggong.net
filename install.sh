@@ -50,11 +50,14 @@ read_your_settings(){
 install_or_upgrade_website() {
     mkdir -p /home/wwwroot
     cd /home/wwwroot || exit
+    rm -rf /home/wwwroot/daminggong.net
     git clone https://github.com/huobazi/daminggong.net
+    judge "website clone "
 }
 
 modify_nginx_root() {
     set -i "/root/c \\\t root /home/wwwroot/daminggong.net;" ${nginx_conf}
+    judge "配置 Nginx "
 }
 
 update_sh() {
