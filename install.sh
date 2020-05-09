@@ -56,7 +56,7 @@ install_or_upgrade_website() {
 }
 
 modify_nginx_root() {
-    set -i "/root/c \\\t root /home/wwwroot/daminggong.net;" ${nginx_conf}
+    sed -i "/root/c \\\t root /home/wwwroot/daminggong.net;" ${nginx_conf}
     judge "配置 Nginx "
 }
 
