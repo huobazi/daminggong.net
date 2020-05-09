@@ -16,7 +16,7 @@ OK="${Green}[OK]${Font}"
 Error="${Red}[错误]${Font}"
 
 # variables
-shell_version="1.0.0"
+shell_version="1.0.1"
 github_branch="master"
 version_cmp="/tmp/version_cmp.tmp"
 nginx_conf_dir="/etc/nginx/conf/conf.d"
